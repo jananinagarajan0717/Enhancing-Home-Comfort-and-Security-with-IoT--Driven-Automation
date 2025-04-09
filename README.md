@@ -1,7 +1,6 @@
 # ENHANCING HOME COMFORT AND SECURITY WITH IOT-DRIVEN AUTOMATION
 
 ![IoT Based Home Automation](https://github.com/user-attachments/assets/8f390e38-28ae-4ddf-8f2a-6c42b4d7fea1)
-![IoT Based Home Automation](https://github.com/jananinagarajan0717/Enhancing-Home-Comfort-and-Security-with-IoT--Driven-Automation/blob/main/Image_Enhancing%20Home%20Comfort%20and%20Security%20with%20IoT-Driven%20Automation.png?raw=true)
 
 The aim of the project is to build a home automation system with the ESP8266 Wi-Fi module. The system will give users an accessible, flexible, and scalable way for controlling appliances in the home. Users can efficiently handle their home environment via a web interface or smartphone application to control the system remotely.
 
