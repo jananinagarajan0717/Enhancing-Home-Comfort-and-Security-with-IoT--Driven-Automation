@@ -1,5 +1,7 @@
 # ENHANCING HOME COMFORT AND SECURITY WITH IOT-DRIVEN AUTOMATION
 
+📑 Patent Status: Application Published (Patent Pending)
+
 ![IoT Based Home Automation](https://github.com/user-attachments/assets/8f390e38-28ae-4ddf-8f2a-6c42b4d7fea1)
 
 The aim of the project is to build a home automation system with the ESP8266 Wi-Fi module. The system will give users an accessible, flexible, and scalable way for controlling appliances in the home. Users can efficiently handle their home environment via a web interface or smartphone application to control the system remotely.
